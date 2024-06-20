@@ -1,7 +1,7 @@
 import network
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
-wlan.connect('SM-S928W0266', 'brendan72')
+wlan.connect('SM-S928W0266', 'brendan721')
 
 # GET
 
